@@ -4,6 +4,13 @@ I'm a developer passionate about building practical solutions.
 
 ---
 
+### 📌 Recent Project
+
+**[AI_PG](https://github.com/mina-han/AI_PG)** - AI-powered emergency call notification system  
+`FastAPI` `Twilio` `Real-time` `SSE`
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
